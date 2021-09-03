@@ -34,5 +34,7 @@ public class TestMain {
     // Integer 로 받아 Integer 로 return 한다.
     UnaryOperator<Integer> operator = (i)->i+1;
 
+
   }
+
 }
